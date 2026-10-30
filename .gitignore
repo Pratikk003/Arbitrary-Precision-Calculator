@@ -1,0 +1,7 @@
+# Build output
+*.o
+*.out
+apc
+
+# Editor settings
+.vscode/
